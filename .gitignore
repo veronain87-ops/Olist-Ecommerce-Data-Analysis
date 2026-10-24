@@ -1,0 +1,11 @@
+# Exclude raw datasets
+data/*.csv
+data/*.xlsx
+
+# Exclude Jupyter checkpoint files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Exclude Python cache files
+__pycache__/
+*.pyc

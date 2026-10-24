@@ -46,6 +46,13 @@ The goal is to transform raw business data into actionable insights that can hel
 
 The project includes two Jupyter Notebooks containing Python code, data analysis, visualizations, and findings.
 
+### View Project Files
+
+- [Jupyter Notebook – Day 1](Capstone%20project%20day1%20%281%29.ipynb)
+- [Jupyter Notebook – Days 4 and 5](Capstone%20project%20day4and5.ipynb)
+- [Business Analysis Report (PDF)](BUSINESS%20REPORT%20final.pdf)
+- [PowerPoint Presentation](Capstone%20python%20presentation.pptx)
+
 ## Conclusion
 
 This project demonstrates practical skills in Python, Pandas, data cleaning, exploratory data analysis, and business reporting.

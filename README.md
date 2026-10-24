@@ -24,6 +24,9 @@ The goal is to transform raw business data into actionable insights that can hel
 - Paid search achieved a lead conversion rate of 12.30%.
 - Organic search achieved a lead conversion rate of 11.80%.
 
+### Lead Conversion Rate by Source
+![Lead Conversion Rate by Source](Images/Lead_conversion_rate.png)
+
 ## Business Recommendations
 
 - Investigate product categories with high numbers of negative reviews.

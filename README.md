@@ -8,8 +8,6 @@ The goal is to transform raw business data into actionable insights that can hel
 
 ## Project Highlights
 
-## Olist E-Commerce Data Analysis | Python, Pandas & Jupyter Notebook
-
 Analyzed Brazilian e-commerce data to uncover insights into customer satisfaction, delivery performance, product reviews, and marketing lead conversion.
 
 ## Key Achievements

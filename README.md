@@ -6,7 +6,21 @@ This project analyzes the Brazilian Olist E-Commerce dataset to identify pattern
 
 The goal is to transform raw business data into actionable insights that can help improve customer experience and operational decision-making.
 
-## Tools and Technologies
+## Project Highlights
+
+## Olist E-Commerce Data Analysis | Python, Pandas & Jupyter Notebook
+
+Analyzed Brazilian e-commerce data to uncover insights into customer satisfaction, delivery performance, product reviews, and marketing lead conversion.
+
+## Key Achievements
+
+- Analyzed 99,224 customer reviews, identifying an average satisfaction score of 4.09 out of 5.
+- Identified that 57.8% of customers gave five-star reviews, while 14.7% gave one- or two-star reviews.
+- Evaluated marketing channels and identified paid search as the highest-converting source at 12.30%.
+- Examined the relationship between delivery times and customer satisfaction, finding that longer delivery times were associated with lower review scores.
+- Created data visualizations and business recommendations to support customer experience and operational improvements.
+
+## Technical Skills and Tools
 
 - Python
 - Pandas

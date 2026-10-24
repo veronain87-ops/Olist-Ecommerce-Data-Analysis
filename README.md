@@ -31,6 +31,10 @@ The goal is to transform raw business data into actionable insights that can hel
 ### Lead Conversion Rate by Source
 ![Lead Conversion Rate by Source](Images/Lead_conversion_rate.png)
 
+### Delivery Time and Customer Satisfaction
+
+![Average Review Score by Delivery Time](Images/delivery_performance.png)
+
 ## Business Recommendations
 
 - Investigate product categories with high numbers of negative reviews.
